@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat May 16 11:28:58 2026
+# Process ID         : 19832
+# Current directory  : C:/Users/HP/OneDrive/Desktop/Lab Dig2/Lab Dig2/Exp5/Exp5/Part3 - Copy/Exp5_part3
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent3848 C:\Users\HP\OneDrive\Desktop\Lab Dig2\Lab Dig2\Exp5\Exp5\Part3 - Copy\Exp5_part3\Exp5_part3.xpr
+# Log file           : C:/Users/HP/OneDrive/Desktop/Lab Dig2/Lab Dig2/Exp5/Exp5/Part3 - Copy/Exp5_part3/vivado.log
+# Journal file       : C:/Users/HP/OneDrive/Desktop/Lab Dig2/Lab Dig2/Exp5/Exp5/Part3 - Copy/Exp5_part3\vivado.jou
+# Running On         : DESKTOP-DNTHRVT
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+# CPU Frequency      : 2304 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16909 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 22009 MB
+# Available Virtual  : 7637 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/HP/OneDrive/Desktop/Lab Dig2/Lab Dig2/Exp5/Exp5/Part3 - Copy/Exp5_part3/Exp5_part3.xpr}
+update_compile_order -fileset sources_1
